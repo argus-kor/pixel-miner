@@ -1,0 +1,69 @@
+{
+ "updatedAt": "2026-10-23T15:08:55.487Z",
+ "stages": [
+  {
+   "id": "melon",
+   "name": "수박",
+   "file": "melon-1fm68rc.json",
+   "image": "melon-0t6px91.webp",
+   "thumb": {
+    "w": 12,
+    "h": 12,
+    "palette": [
+     "#ed1d22",
+     "#417e1f",
+     "#d2c490",
+     "#861213",
+     "#ef7063"
+    ],
+    "cells": ".....00..........000........0030.......000300.....00000000....00000000...0000030000.403300300300240000000004122400000421.11222222111..11111111.."
+   },
+   "difficulties": [
+    {
+     "diff": "EASY",
+     "w": 12,
+     "h": 12,
+     "colors": 5,
+     "pixels": 96,
+     "blocks": 6,
+     "slots": 5,
+     "stacks": 3,
+     "locks": 0
+    },
+    {
+     "diff": "NORMAL",
+     "w": 16,
+     "h": 16,
+     "colors": 7,
+     "pixels": 155,
+     "blocks": 11,
+     "slots": 4,
+     "stacks": 4,
+     "locks": 0
+    },
+    {
+     "diff": "HARD",
+     "w": 22,
+     "h": 20,
+     "colors": 8,
+     "pixels": 259,
+     "blocks": 19,
+     "slots": 4,
+     "stacks": 5,
+     "locks": 1
+    },
+    {
+     "diff": "CRAZY",
+     "w": 26,
+     "h": 26,
+     "colors": 11,
+     "pixels": 399,
+     "blocks": 37,
+     "slots": 3,
+     "stacks": 6,
+     "locks": 2
+    }
+   ]
+  }
+ ]
+}
