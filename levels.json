@@ -1,0 +1,16 @@
+{
+ "updatedAt": "2026-10-25T13:34:49.882Z",
+ "count": 100,
+ "packs": [
+  {
+   "from": 1,
+   "to": 50,
+   "file": "pack-0001-1vcqc2s.json"
+  },
+  {
+   "from": 51,
+   "to": 100,
+   "file": "pack-0051-1vo4flf.json"
+  }
+ ]
+}
